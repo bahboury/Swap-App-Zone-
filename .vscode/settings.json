@@ -1,0 +1,23 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.words": [
+        "bcdefghjkmnpqrstuvwxyz",
+        "beerstorm",
+        "dartz",
+        "firestore",
+        "geoflutterfire",
+        "Geohash",
+        "geohashes",
+        "geohashing",
+        "geolocator",
+        "geopoint",
+        "placehold",
+        "placemarks",
+        "Schyler",
+        "Subcollection",
+        "unliking",
+        "usecase",
+        "usecases"
+    ]
+}
